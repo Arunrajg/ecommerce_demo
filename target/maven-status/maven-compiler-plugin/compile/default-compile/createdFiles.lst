@@ -1,0 +1,14 @@
+com\demo\ecommerce\model\Product.class
+com\demo\ecommerce\controller\ProductController.class
+com\demo\ecommerce\repository\ProductRepository.class
+com\demo\ecommerce\controller\OrderController$CreateOrderRequest.class
+com\demo\ecommerce\service\ProductService.class
+com\demo\ecommerce\EcommerceApplication.class
+com\demo\ecommerce\controller\GlobalExceptionHandler.class
+com\demo\ecommerce\repository\OrderRepository.class
+com\demo\ecommerce\controller\HomeController.class
+com\demo\ecommerce\model\Order.class
+com\demo\ecommerce\controller\OrderController.class
+com\demo\ecommerce\model\Order$Status.class
+com\demo\ecommerce\model\OrderItem.class
+com\demo\ecommerce\service\OrderService.class

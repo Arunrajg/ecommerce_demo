@@ -1,0 +1,12 @@
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\controller\HomeController.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\service\ProductService.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\model\OrderItem.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\service\OrderService.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\EcommerceApplication.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\model\Order.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\controller\OrderController.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\controller\ProductController.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\controller\GlobalExceptionHandler.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\model\Product.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\repository\ProductRepository.java
+C:\Workspace\ecommerce_demo\src\main\java\com\demo\ecommerce\repository\OrderRepository.java
